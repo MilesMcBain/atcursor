@@ -2,11 +2,11 @@ Package: atcursor
 Title: Get the current word or selection at cursor
 Version: 0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Miles",
+           family = "McBain",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "miles.mcbain@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0003-2865-2548"))
 Description: Get the current word or selection at cursor using the {rstudioapi}. Works in VSCode and RStudio.
 License: MIT + file LICENSE
 Encoding: UTF-8
